@@ -1,0 +1,4 @@
+/home/andrebrandao/Documents/FACULDADE/2023-2/REDES/chat sockets/build/CMakeFiles/server.dir
+/home/andrebrandao/Documents/FACULDADE/2023-2/REDES/chat sockets/build/CMakeFiles/client.dir
+/home/andrebrandao/Documents/FACULDADE/2023-2/REDES/chat sockets/build/CMakeFiles/edit_cache.dir
+/home/andrebrandao/Documents/FACULDADE/2023-2/REDES/chat sockets/build/CMakeFiles/rebuild_cache.dir
